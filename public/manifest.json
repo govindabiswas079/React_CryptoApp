@@ -1,0 +1,15 @@
+{
+    "short_name": "Crypto",
+    "name": "Crypto Market",
+    "icons": [
+        {
+            "src": "./cryptocurrency.png",
+            "type": "./png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
